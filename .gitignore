@@ -4,6 +4,15 @@ target
 .project
 .settings
 *orig
+
+# Intellij
+*.iml
+.idea/
+
+# IDE: Visual Studio Code
+.vscode/
+
+# Java Spring
 .springBeans
 */repository/
 *tmp/
